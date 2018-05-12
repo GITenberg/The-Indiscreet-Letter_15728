@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5556
     wikipedia: http://en.wikipedia.org/wiki/Eleanor_Hallowell_Abbott
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15728#The-Indiscreet-Letter
 gutenberg_issued: '2005-04-29'
 gutenberg_type: Text
 identifiers:
