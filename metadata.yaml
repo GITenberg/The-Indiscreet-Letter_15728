@@ -1,0 +1,29 @@
+_repo: The-Indiscreet-Letter_15728
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Abbott, Eleanor Hallowell
+    alias: Coburn, Fordyce, Mrs.
+    birthdate: 1872
+    deathdate: 1958
+    gutenberg_agent_id: '5556'
+    url: http://www.gutenberg.org/2009/agents/5556
+    wikipedia: http://en.wikipedia.org/wiki/Eleanor_Hallowell_Abbott
+description: ''
+gutenberg_issued: '2005-04-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15728'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Railroad travel -- Fiction'
+- !lcsh 'Letter writing -- Fiction'
+- !lcc 'PS'
+title: The Indiscreet Letter
+url: http://www.gutenberg.org/ebooks/15728
